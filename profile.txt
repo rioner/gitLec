@@ -8,3 +8,4 @@ home : hachiojiminamino
 japan
 
 school : tut
+college : CS

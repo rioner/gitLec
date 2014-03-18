@@ -3,3 +3,5 @@ name : è¨å¥Å@ëR
 weight : 60
 
 height : 173
+
+school : tut

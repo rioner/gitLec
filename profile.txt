@@ -1,3 +1,5 @@
 name : ¬Œ´@‘R
 
 weight : 60
+
+height : 173

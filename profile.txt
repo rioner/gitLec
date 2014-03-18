@@ -5,3 +5,5 @@ weight : 60
 height : 173
 
 home : hachiojiminamino
+
+school : tut
